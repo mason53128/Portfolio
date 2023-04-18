@@ -1,0 +1,74 @@
+header h1 {
+    text-align: center;
+    color: White
+}
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    background-color: #8860D0;
+    padding: 10px;
+    margin-top: 0px;
+
+}
+body{
+    background-color: #C1C8E4;
+}
+
+.topnav {
+    overflow: hidden;
+    position: relative;
+}
+.topnav #myLinks {
+    display: none;
+}
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+.topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.topnav a:hover {
+    color: black;
+}
+.active {
+    color: white;
+}
+#hp  {
+    float: left;
+    margin: 0 15px 0 0;
+    position: relative;
+
+}
+.aboutme{
+    font-size: x-large;
+    font-family: "Times New Roman";
+
+}
+.box{
+    color: white;
+}
+.education{
+    position: fixed;
+    text-align: center;
+    margin-top: 300px;
+    background-color: #8860D0;
+    width: 100%;
+    padding: 10px;
+    color: white;
+}
+.educationpage{
+    position: absolute;
+}
+
+
